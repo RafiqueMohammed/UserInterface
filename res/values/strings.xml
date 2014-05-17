@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UserInterface</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="heading">Welcome to UI App</string>
+    <string name="heading2">Welcome to UI App</string>
+    <string name="demo_btn">Custom Button</string>
+    <string name="title_activity_background">Background</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="string_dashboard_header">Your today\'s color prediction</string>
+    <string name="title_activity_dynamic_color_box">Dynamic ColorBox</string>
+
+</resources>

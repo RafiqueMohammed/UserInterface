@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btn_primary"
+            android:layout_width="150dp"
+            android:layout_height="62dp"
+            android:background="@drawable/btn_primary"
+            android:text="@string/demo_btn"
+            android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/btn_default"
+            android:layout_width="150dp"
+            android:layout_height="62dp"
+                android:background="@drawable/btn_default"
+                android:text="@string/demo_btn" android:textColor="#ffffff"  />
+
+    <Button
+        android:id="@+id/btn_purple"
+            android:layout_width="150dp"
+            android:layout_height="62dp"
+        android:background="@drawable/btn_purple"
+        android:text="@string/demo_btn" android:textColor="#ffffff"  />
+
+    <Button
+        android:id="@+id/btn_torq"
+            android:layout_width="150dp"
+            android:layout_height="62dp"
+        android:background="@drawable/btn_torq"
+        android:text="@string/demo_btn" android:textColor="#ffffff"  />
+
+    <Button
+        android:id="@+id/btn_blue"
+            android:layout_width="150dp"
+            android:layout_height="62dp"
+        android:background="@drawable/btn_blue"
+        android:text="@string/demo_btn" android:textColor="#ffffff"  />
+
+    <Button
+        android:id="@+id/btn_dark"
+            android:layout_width="150dp"
+            android:layout_height="62dp"
+        android:background="@drawable/btn_dark"
+        android:text="@string/demo_btn" android:textColor="#ffffff"  />
+
+    <Button
+        android:id="@+id/btn_lemon"
+            android:layout_width="150dp"
+            android:layout_height="62dp"
+        android:background="@drawable/btn_lemon"
+        android:text="@string/demo_btn" android:textColor="#ffffff"  />
+
+     <Button
+         android:id="@+id/btn_orange"
+            android:layout_width="150dp"
+            android:layout_height="62dp"
+         android:background="@drawable/btn_orange"
+         android:text="@string/demo_btn" android:textColor="#ffffff"  />
+
+     <Button
+         android:id="@+id/btn_red"
+            android:layout_width="150dp"
+            android:layout_height="62dp"
+         android:background="@drawable/btn_red"
+         android:text="@string/demo_btn" android:textColor="#ffffff"  />
+
+     <Button
+         android:id="@+id/btn_light"
+         android:layout_width="150dp"
+         android:layout_height="62dp"
+         android:background="@drawable/btn_light"
+         android:text="@string/demo_btn" />
+
+</LinearLayout>
+</ScrollView>
